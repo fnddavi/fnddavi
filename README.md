@@ -14,6 +14,8 @@ Sou estudante de Desenvolvimento de Softwares Multiplataformas na FATEC Jacareí
 <div align="center" style="display: inline_block"><br>
     <img align="center" alt="markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
     <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img align="center" alt="VSCode" src="https://img.shields.io/badge/VSCode-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+    <img align="center" alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-ff6961?style=for-the-badge&logo=github&logoColor=white"/>
     <img align="center" alt="html" src="https://img.shields.io/badge/HTML-FF4500?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
