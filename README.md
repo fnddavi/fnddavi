@@ -1,6 +1,6 @@
 ### Olá, eu sou o Fernando e estou aprendendo a programar!
 
-Sou estudante de Desenvolvimento de Softwares Multiplataformas na FATEC Jacareí. Amante de música e curioso pelo funcionamento do mundo!
+Sou estudante de Desenvolvimento de Softwares Multiplataformas (DSM) na FATEC Jacareí.
 
 <div align="center">
     
