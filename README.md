@@ -31,6 +31,7 @@ Sou estudante de Desenvolvimento de Softwares Multiplataformas (DSM) na FATEC Ja
 ## Projetos
 
 - Fique à vontade para ver meus [repositórios](https://github.com/fnddavi?tab=repositories)
+- Ou visite meu [portifólio](https://fnddavi.github.io/FernandoDavi/)
 
 ## Contato
 
